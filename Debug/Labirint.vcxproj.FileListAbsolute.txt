@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\Labirint\Debug\Labirint.exe
+C:\Users\User\source\repos\Labirint\Debug\Labirint.pdb
